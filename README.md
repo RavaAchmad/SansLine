@@ -27,7 +27,7 @@
 ```
 
 ## Edit config file
-Edit the required value in `config.json`. You can get the api key at [`LoL Human Rest API`](http://api.lolhuman.xyz/).
+Edit the required value in `config.json`. You can get the api key at [`Hunter Apik`](https://bx-hunter.herokuapp.com/).
 ```json
 {
     "apikey": "Beli sendiri",
