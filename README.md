@@ -464,5 +464,6 @@ case 'covid_word':
 
 ## ```Thnaks To```
 
-- [`Zahir`]()
-- [`Hads`]()
+- [`Allah Swt`]()
+- [`Ortu`]()
+- [`dan teman teman lainnya`]()    
