@@ -1,18 +1,18 @@
 # ```SansLine-Bot```
 <p align="center">
 <a href="https://github.com/RavaAchmad/followers"><img title="Followers" src="https://img.shields.io/github/followers/RavaAchmad?color=red&style=flat-square"></a>
-<a href="https://github.com/RavaAchmad/SansLane/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RavaAchmad/SansLane?color=red&style=flat-square"></a>
-<a href="https://github.com/RavaAchmad/SansLane/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RavaAchmad/SansLane?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/RavaAchmad/SansLine/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RavaAchmad/SansLine?color=red&style=flat-square"></a>
+<a href="https://github.com/RavaAchmad/SansLine/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RavaAchmad/SansLine?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/RavaAchmad/Rest-api-alphabot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/RavaAchmad/SansLane/"><img title="Size" src="https://img.shields.io/github/repo-size/RavaAchmad/Rest-api-alphabot?style=flat-square&color=green"></a>
+<a href="https://github.com/RavaAchmad/SansLine/"><img title="Size" src="https://img.shields.io/github/repo-size/RavaAchmad/Rest-api-alphabot?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRavaAchmad%2FSansLine&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/RavaAchmad/SansLane/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/RavaAchmad/SansLine/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
 
 -------
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Rava 😇 </h1>
+<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm zeeone 😇 </h1>
 <p align="center">
   <img src="https://i.ibb.co/1Z5R2Hc/IMG-20210810-035658-min.jpg" /></>
 </p>
