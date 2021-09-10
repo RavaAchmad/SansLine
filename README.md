@@ -40,6 +40,12 @@
 </p>
 
 
+## ```coffee ☕```
+
+- [`SAWERIA`](https://saweria.co/RavaAchmad)
+
+
+
 ## ```Api Features```
 
 1. ```𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙 & 𝙎𝙤𝙘𝙞𝙖𝙡 𝙈𝙚𝙙𝙞𝙖 🤳 ```
@@ -455,10 +461,6 @@ case 'covid_word':
      break
 ```
 </Details>
-
-## ```coffee ☕```
-
-- [`SAWERIA`](https://saweria.co/RavaAchmad)
 
 ## ```Thnaks To```
 
