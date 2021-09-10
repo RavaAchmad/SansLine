@@ -17,9 +17,9 @@
   <img src="https://c.top4top.io/p_2069qnvob1.jpg" /></>
 </p>
 
-- 👼 My name is Zeeone 
-- 🗣️ I am 17 years old 
-- 🔭 I am not programmer
+-  My name is Rava
+- I am 13 years old 
+- I am not programmer
 
 ## ```Connect with me```
 <p align="center">
