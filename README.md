@@ -30,7 +30,7 @@
 Edit the required value in `setting.json`. You can get the api key at [`Hunter Apik`](https://bx-hunter.herokuapp.com/).
 ```json
 {
-    "apikey": "Beli sendiri",
+    "apikey": "http://wa.me/6281281872699 (minta ke orang ini)",
     "prefix": "!",
     "owner": "6281212035575"
 }
