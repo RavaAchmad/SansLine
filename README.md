@@ -1,13 +1,12 @@
-# ```Alphabot-Api```
+# ```SansLine-Bot```
 <p align="center">
-<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/api-zeeoneofc?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/api-zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/api-zeeoneofc?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Rest-api-alphabot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeoneofc/Rest-api-alphabot/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Rest-api-alphabot?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FRest-api-alphabot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeoneofc/Rest-api-alphabot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/RavaAchmad/followers"><img title="Followers" src="https://img.shields.io/github/followers/RavaAchmad?color=red&style=flat-square"></a>
+<a href="https://github.com/RavaAchmad/SansLane/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RavaAchmad/SansLane?color=red&style=flat-square"></a>
+<a href="https://github.com/RavaAchmad/SansLane/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RavaAchmad/SansLane?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/RavaAchmad/Rest-api-alphabot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/RavaAchmad/SansLane/"><img title="Size" src="https://img.shields.io/github/repo-size/RavaAchmad/Rest-api-alphabot?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRavaAchmad%2FSansLine&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/RavaAchmad/SansLane/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -37,7 +36,7 @@
 [`Click Here For Tutorial`](https://youtu.be/POjBjZx9tvY)<br>
 
 <p align="center">
-  <a href="https://youtu.be/POjBjZx9tvY"><img src="https://i.ibb.co/1Z5R2Hc/IMG-20210810-035658-min.jpg" />
+  <a href="https://youtu.be/POjBjZx9tvY"><img src="https://camo.githubusercontent.com/9c184e56a76795eaeb8e7584424520de07a9aa4db57323f626ef9ff7730f62b9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f34644d3155373661415133646245366263332f67697068792e676966" />
 </p>
 
 
@@ -148,7 +147,7 @@ case 'random_quote':
 Example Case:
 
 case 'maker_2d':
-      if (args.length < 1) return reply(`Usage: ${prefix + command} teks\nExample : ${prefix + command} zeeoneofc)
+      if (args.length < 1) return reply(`Usage: ${prefix + command} teks\nExample : ${prefix + command} RavaAchmad)
       teksnya = args.join(" ")
       ini_result = await fetchJson(`https://api-alphabot.herokuapp.com/api/maker?text=${teksnya}&apikey=Alphabot`}
       get_result = ini_result.result
@@ -168,7 +167,7 @@ case 'maker_2d':
 Example Case:
 
 case 'maker_3d':
-      if (args.length < 1) return reply(`Usage: ${prefix + command} teks\nExample : ${prefix + command} zeeoneofc)
+      if (args.length < 1) return reply(`Usage: ${prefix + command} teks\nExample : ${prefix + command} RavaAchmad)
       teksnya = args.join(" ")
       ini_result = await fetchJson(`https://api-alphabot.herokuapp.com/api/maker3d?text=${teksnya}&apikey=Alphabot`}
       get_result = ini_result.result
@@ -188,7 +187,7 @@ case 'maker_3d':
 Example Case:
 
 case 'sertifikat_ff':
-      if (args.length < 1) return reply(`Usage: ${prefix + command} teks\nExample : ${prefix + command} zeeoneofc)
+      if (args.length < 1) return reply(`Usage: ${prefix + command} teks\nExample : ${prefix + command} RavaAchmad)
       teksnya = args.join(" ")
       ini_result = await fetchJson(`api-alphabot.herokuapp.com/api/maker/special/epep?text=${teksnya}&apikey=Alphabot`}
       get_result = ini_result.result
@@ -208,7 +207,7 @@ case 'sertifikat_ff':
 Example Case:
 
 case 'coffe_cup':
-      if (args.length < 1) return reply(`Usage: ${prefix + command} teks\nExample : ${prefix + command} zeeoneofc)
+      if (args.length < 1) return reply(`Usage: ${prefix + command} teks\nExample : ${prefix + command} RavaAchmad)
       teksnya = args.join(" ")
       ini_result = await fetchJson(`https://percobaannih.herokuapp.com/api/textmaker/senja?text=${teksnya}&theme=coffee-cup&apikey=Alphabot`}
       get_result = ini_result.result
@@ -421,7 +420,7 @@ case 'republika':
 Example Case:
 
 case 'base64encode':
-      if (args.length < 1) return reply(`Usage : ${prefix + command} teks\nExample : ${prefix + command} zeeoneofc)
+      if (args.length < 1) return reply(`Usage : ${prefix + command} teks\nExample : ${prefix + command} RavaAchmad)
       query = args.join(" ")
       ini_result = await fetchJson(`https://api-alphabot.herokuapp.com/api/base?apikey=Alphabot&type=base64&encode=${query}`)
       get_result = ini_result.result
@@ -459,7 +458,7 @@ case 'covid_word':
 
 ## ```coffee ☕```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://saweria.co/RavaAchmad)
 
 ## ```Thnaks To```
 
