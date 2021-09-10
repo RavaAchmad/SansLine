@@ -1,4 +1,4 @@
-# LoL Human Case Rest API WA Bot
+# SansLine Case Rest API WA Bot
 
 # Installation
 
@@ -17,7 +17,7 @@
 
 ## Cloning this repo
 ```cmd
-> git clone https://github.com/LoL-Human/Case-WA-Bot.git
+> git clone https://github.com/RavaAchmad/SansLine.git
 > cd Case-WA-Bot
 ```
 
