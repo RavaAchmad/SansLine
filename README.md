@@ -18,8 +18,9 @@
 </p>
 
 -  My name is Rava
-- I am 13 years old 
+- I am 14 years old 
 - I am not programmer
+- I am Studying In Am'sar
 
 ## ```Connect with me```
 <p align="center">
@@ -466,4 +467,6 @@ case 'covid_word':
 
 - [`Allah Swt`]()
 - [`Ortu`]()
-- [`dan teman teman lainnya`]()    
+- [`dan teman teman lainnya`]()
+- [`Orang yang telah membimbing saya`]()  
+- [`Dan Orang Yang Deket Sama Saya`]()  
